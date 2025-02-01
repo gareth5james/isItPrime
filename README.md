@@ -11,3 +11,13 @@
 ### Run tests with ```npm t```
 
 ### Test criteria visible under ```./__tests__/main.test.js```
+
+#### A prime number is a number that is greater than 1, and is only wholly divisible by 1 and itself. 
+
+#### For example, 2 is a prime number, as it is wholly divisible by 2 and 1. 8 is not a prime number, as it is 
+#### wholly divisible by 1, 2 and 4.
+#### https://en.wikipedia.org/wiki/Prime_number
+
+#### You can expect the function to accept only numbers between 0 and 200
+
+### Good luck!
